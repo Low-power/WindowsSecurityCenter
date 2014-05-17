@@ -1,0 +1,21 @@
+501	ICON	"wsc.ico"
+502	ICON	"hand.ico"
+
+1 VERSIONINFO
+PRODUCTVERSION 1,1,0,0
+FILEOS 4	// 32 bit Windows
+FILETYPE 2	// DLL
+BEGIN
+	BLOCK "StringFileInfo"
+	BEGIN
+		BLOCK "000004b0"
+		BEGIN
+			VALUE "CompanyName", "PC GO\0"
+			VALUE "FileDescription", "Windows Security Center\0"
+			VALUE "InternalName", "wscui\0"
+			VALUE "LegalCopyright", "Copyright 2007-2013 PC GO Ld.\0"
+			VALUE "OriginalFilename", "wscui.cpl\0"
+			VALUE "ProductName", "Windows Security Center Processional\0"
+		END
+	END
+END
